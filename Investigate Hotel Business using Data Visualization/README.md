@@ -53,7 +53,7 @@ The project will go through several stages as follows:
 
 ## Results
 ### Monthly Hotel Booking Analysis Based on Hotel Type
-![Employee data](/PortofolioData/Investigate Hotel Business using Data Visualization/images/case 1.png?raw=true "case 1")
+![alt text](/Investigate%20Hotel%20Business%20using%20Data%20Visualization/images/case%201.png)
 * During the holiday period, both hotels have more guests, with the City Hotel having more than the Resort Hotel.
 * In Indonesia, most schools have holidays from June through July. Typically, a lot of families would travel together at that time. This explains why June and July saw an increase in visitors at both hotels. This can be used as one of the reasons for the timing of marketing implementation.
 * From August to September, City Hotel's guest number decreases significantly. 
@@ -61,11 +61,13 @@ It's because of the school period. so that the number of guests has decreased fr
 * The lowest value of average number of booking at March (for both hotel types).
 
 ### Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
+![alt text](/Investigate%20Hotel%20Business%20using%20Data%20Visualization/images/case%202.png)
 * The longer the total number of nights booked, the higher the cancellation rate (positive trend); City hotels have a steeper trend than Resort hotels.
 * The higher cancellation rate for both hotels; city hotel on >21 days stay duration (87.23%) and resort hotel on 15-21 days stay duration (46.75%)
 * To prevent this from happening, the hotels should implement a cancellation policy. The longer the total number of nights booked, the higher the cancellation fee.
 
 ### Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
+![alt text](/Investigate%20Hotel%20Business%20using%20Data%20Visualization/images/case%203.png)
 * Both hotel types has lowest cancellation rate of bookings on 1 month lead time; city hotel (22.47%) and resort 
 hotel (13.11%).
 * When booking more than 9 months, city hotels have a high percentage of cancellations reaching more than 70%.
