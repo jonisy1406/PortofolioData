@@ -53,6 +53,7 @@ The project will go through several stages as follows:
 
 ## Results
 ### Monthly Hotel Booking Analysis Based on Hotel Type
+![Employee data](/PortofolioData/Investigate Hotel Business using Data Visualization/images/case 1.png?raw=true "case 1")
 * During the holiday period, both hotels have more guests, with the City Hotel having more than the Resort Hotel.
 * In Indonesia, most schools have holidays from June through July. Typically, a lot of families would travel together at that time. This explains why June and July saw an increase in visitors at both hotels. This can be used as one of the reasons for the timing of marketing implementation.
 * From August to September, City Hotel's guest number decreases significantly. 
