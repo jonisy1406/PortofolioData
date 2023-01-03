@@ -19,7 +19,7 @@ The project will go through several stages as follows:
 6. Business Strategy Recomendations  
 
 ## Results     
-![alt text](/Predict%Customer%Personality%to%Boost%Marketing%Campaign%by%Using%Machine%Learning/images/pca.png)   
+![alt text](https://github.com/jonisy1406/PortofolioData/tree/master/Predict%20Customer%20Personality%20to%20Boost%20Marketing%20Campaign%20by%20Using%20Machine%20Learning/images/pca.png)   
 
 Based on model, there are 4 customer clusters:  
 **Interpretasi Clusters**  
@@ -32,7 +32,7 @@ Cluster 2 is a cluster with an average age of 46 years. This cluster is the clus
 * Cluster 3  
 Cluster 3 is a cluster with an average age of 48 years and consists of an average number of new customers. This cluster is the cluster with the smallest average recency, meaning that this cluster makes purchases from the last purchase with an average adjacent time distance. Nevertheless, this cluster is the one with the least number of purchases and the lowest total spent. These clusters are referred to as "Promising."       
 
-![alt text](/Predict%Customer%Personality%to%Boost%Marketing%Campaign%by%Using%Machine%Learning/images/boxenplot.png)      
+![alt text](https://github.com/jonisy1406/PortofolioData/tree/master/Predict%20Customer%20Personality%20to%20Boost%20Marketing%20Campaign%20by%20Using%20Machine%20Learning/images/boxenplot.png)      
 
 ## Business Strategy Recomendations
 1. Loyalist Potential Cluster     
@@ -44,7 +44,7 @@ This cluster purchases the most products, and the total amount spent is also sub
 4. Hibernating Cluster   
 This cluster contains small purchases and total money spent. In addition, the distance from the last purchase to the next purchase is also far. The strategy that can be implemented is to provide special offers and products that are relevant to the customers in this cluster (according to the age of the customers in this cluster).   
 
-!['alt text'](https://github.com/jonisy1406/PortofolioData/tree/master/Predict%20Customer%20Personality%20to%20Boost%20Marketing%20Campaign%20by%20Using%20Machine%20Learning/images/barplot.png)   
+![alt text](https://github.com/jonisy1406/PortofolioData/tree/master/Predict%20Customer%20Personality%20to%20Boost%20Marketing%20Campaign%20by%20Using%20Machine%20Learning/images/barplot.png)   
 Of the above strategies, two clusters that can be prioritized are "potential loyalists" and "can't lose them". These two clusters make the most purchases and spend the most money in total. With the total customers of these two clusters being more than 55% of the total customers and the total spent being more than 80%, these two clusters can be used as the main focus. The potential impact of focusing on these two clusters is that we will obtain a GMV of IDR 566 million from the Potential Loyalist cluster and IDR 679 million from the Can't Lose Them cluster.  
 
 
