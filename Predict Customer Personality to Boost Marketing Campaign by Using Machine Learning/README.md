@@ -43,8 +43,9 @@ Because the customers in this cluster are clusters of new entrants and make quit
 This cluster purchases the most products, and the total amount spent is also substantial. Customers in this cluster are the most potential customers and provide high profits. In addition, the number of customers in this cluster is also the largest. However, customers in this cluster make purchases after the purchase is quite far away.Therefore, the strategy that can be done is to contact and provide offers to this cluster so that it can attract them to make purchases that can be in the form of products that suit most of the ages in this cluster and also provide discounts.   
 4. Hibernating Cluster   
 This cluster contains small purchases and total money spent. In addition, the distance from the last purchase to the next purchase is also far. The strategy that can be implemented is to provide special offers and products that are relevant to the customers in this cluster (according to the age of the customers in this cluster).   
-
-![alt text](/Predict%Customer%Personality%to%Boost%Marketing%Campaign%by%Using%Machine%Learning/images/barplot.png)   
+<p>
+    <img src="/images/barplot.png"/>
+</p>
 Of the above strategies, two clusters that can be prioritized are "potential loyalists" and "can't lose them". These two clusters make the most purchases and spend the most money in total. With the total customers of these two clusters being more than 55% of the total customers and the total spent being more than 80%, these two clusters can be used as the main focus. The potential impact of focusing on these two clusters is that we will obtain a GMV of IDR 566 million from the Potential Loyalist cluster and IDR 679 million from the Can't Lose Them cluster.  
 
 
