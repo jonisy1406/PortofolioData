@@ -83,7 +83,7 @@ As it is known that in the column 'Area Income' there are outliers, we will hand
 We will be used the IQR method. Because the data is cleaner than outliers and not much data is removed (only 0.3% removed).  
 ![alt text](images/boxplot_remove.png)  
 ### Feature Selection
-At this stage, a column is dropped that is not related to the model to be built.    
+At this stage, columns are dropped that are not related to the model to be built.     
 ### Feature Encoding
 The feature encoding technique used is one hot encoding because all categorical variables are not ordinal or multilevel variables.     
 
