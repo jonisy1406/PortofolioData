@@ -117,8 +117,8 @@ Based on EDA and feature importance, business recommendations that can be submit
 
 ### Business Simulation  
 The data used in this business simulation is the data from the split_train_test (data test). In the data set there are 144 users who click on ads and 154 who do not click on ads (298 users/customers). There are two schemes in this business simulation, namely without machine learning and with machine learning. With the assumptions used are as follows:   
-* Advertising costs per customer =  IDR 1,000  
-* Profit earned when a customer clicks on an ad = IDR 5,000 
+* Advertising costs per customer =  Rp. 1,000  
+* Profit earned when a customer clicks on an ad = Rp. 5,000   
 Without machine learning (advertising is applied to all 298 customers), it was found that the CTR was 48.32% with a total cost of Rp. 298,000, revenue of Rp. 720,000 and the profit earned is Rp. 422,000.  While with modeling (advertisements are only given to customers who are predicted by the model to click on ads, namely 142 people.) it was found that the CTR was 98.59% with a total cost of Rp. 142,000, revenue of Rp. 700,000 and the profit earned is Rp. 558,000.   
 
 ### Conclusions
