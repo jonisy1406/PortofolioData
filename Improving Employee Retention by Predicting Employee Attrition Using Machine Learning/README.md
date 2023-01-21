@@ -52,8 +52,8 @@ The data to be used is "Improving Employee Retention by Predicting Employee Attr
 Some of the steps taken in this project are as follows:    
 * Business Understanding : Define problems, goal, objective, and business metrics  
 * Exploring Data & Data Preprocessing : Check missing value, check outliers, drop kolom, change data type and handle it.
-* Insight : Provide insight based on number of resign employee, reason resign and analysis the division which has the most resign employees.
-* Modeling : Define target, feature extraction, feature transformation (encoding & scaling), and feature selection, oversampling tuning hyperparameter and feature importance.
+* Insight : Provide insight based on number of resign employee, reason resign and analysis the division which has the most resign employees.  
+* Modeling : Define target, feature extraction, feature transformation (encoding & scaling), and feature selection, oversampling tuning hyperparameter and feature importance.  
 * Business Recomendations : Provide business recommendations from the modeling results.  
 
 ## Insights  
