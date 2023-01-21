@@ -22,31 +22,31 @@ The data to be used is "Improving Employee Retention by Predicting Employee Attr
 
 |Coloumn | Description |
 |--------|-------------|
-|Username |: Username dari karyawan |                        
-|EnterpriseID|: ID dari masing-masing karyawan  |                         
-|StatusPernikahan|: Status pernikahan karyawan  |                       
-|JenisKelamin|: Jenis kelamin karyawan |                           
-|StatusKepegawaian |: Status kepegawaian karyawan |                   
-|Pekerjaan|: Jenis perkerjaan (posisi) karyawan  |                            
-|JenjangKarir |: Jenjang karir karyawan  |                        
-|PerformancePegawai|: Nilai performa karyawan  |                   
-|AsalDaerah |: Asal daerah karyawan |                          
-|HiringPlatform |: Platform yang digunakan oleh karyawan dalam mendapatkan informasi pekerjaan  |                      
-|SkorSurveyEngagement|: Nilai skor engagement karyawan  |                  
-|SkorKepuasanPegawai|: Nilai skor kepuasan pegawai |                 
-|JumlahKeikutsertaanProjek|: Jumlah keikutsertaan karyawan dalam projek  |           
-|JumlahKeterlambatanSebulanTerakhir |: Jumlah keterlambatan sebulan terakhir dari karyawan  | 
-|JumlahKetidakhadiran|: Jumlah ketidakhadiran karyawan |               
-|NomorHP |: Nomor handphone karyawan |                             
-|Email|: Email dari karyawan  |                                
-|TingkatPendidikan|: Tingkat pendidikan karyawan  |                    
-|PernahBekerja|: Keterangan apakah karyawan pernah bekerja atau tidak  |                        
-|IkutProgramLOP|: Keterangan apakah mengikuti program LOP |                      
-|AlasanResign|: Alasan Resign dari karyawan|                         
-|TanggalLahir |: Tanggal lahir karyawan (Tahun-bulan-tanggal)  |                        
-|TanggalHiring|: Tanggal hiring karyawan  |                        
-|TanggalPenilaianKaryawan |: Tanggal penilaian karyawan  |            
-|TanggalResign |: Tanggal resign karyawan  |  
+|Username |: Employee's username |                        
+|EnterpriseID|: Unique identifier for each employee  |                         
+|StatusPernikahan|: Employee marital status  |                       
+|JenisKelamin|: The gender of the employee |                           
+|StatusKepegawaian |: Employment status of employees |                   
+|Pekerjaan|: The type of work (position) performed by an employee  |                            
+|JenjangKarir |:  Employee career path   |                        
+|PerformancePegawai|:  Values of Employee Performance   |                   
+|AsalDaerah |:  Employee origin  |                          
+|HiringPlatform |: a website where employees can find job information  |                      
+|SkorSurveyEngagement|: Employee engagement score  |                  
+|SkorKepuasanPegawai|: Employee satisfaction score |                 
+|JumlahKeikutsertaanProjek|:  Number of employee participation in the project   |           
+|JumlahKeterlambatanSebulanTerakhir |: Last month's number of tardiness of employees  | 
+|JumlahKetidakhadiran|: Number of absent employees |               
+|NomorHP |: Employee mobile number |                             
+|Email|: Employee email  |                                
+|TingkatPendidikan|:  Level of education of employee   |                    
+|PernahBekerja|: Information on whether the employee has ever worked or not  |                        
+|IkutProgramLOP|: Information on whether to join the LOP program |                      
+|AlasanResign|: Reasons for Resigning from employees |                         
+|TanggalLahir |: Employee's date of birth (Year-month-date)  |                        
+|TanggalHiring|: Hiring date  |                        
+|TanggalPenilaianKaryawan |: Employee Appraisal Date  |            
+|TanggalResign |: Employee resignation date  |  
 
 ## Steps  
 Some of the steps taken in this project are as follows:    
