@@ -36,10 +36,10 @@ Variable Information:
 ## Steps
 Some of the steps taken in this project are as follows:    
 * Business Understanding : Define problems, goal, objective, and business metrics
-* Exploratory Data Analysis  : Descriptive statistics, univariate analysis, bivariate analysis, and mutlivariate analysis  
-* Data Preprocessing  : Handle missing values, feature extraction, Hanlde outliers, feature selection and feature transformation  
+* Exploratory Data Analysis  : Descriptive statistics, univariate analysis, bivariate analysis, and multivariate analysis  
+* Data Preprocessing  : Handle missing values, feature extraction, Handle outliers, feature selection and feature transformation  
 * Modeling : There are two schemes that are carried out, namely modeling without scaling features and modeling with scaling features  
-* Business Recomendation and Business Simulation : Provide business recommendations from the modeling results and provide an overview (simulation) of the benefits or advantages of using the modeling results  
+* Business Recommendation and Business Simulation : Provide business recommendations from the modeling results and provide an overview (simulation) of the benefits or advantages of using the modeling results  
 
 
 ## Exploratory Data Analysis   
