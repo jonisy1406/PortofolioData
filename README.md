@@ -10,4 +10,6 @@ If you are interested to have a conversation related to the Data Analyst/Data Sc
 * LinkedIn : [Joni Syofian](https://www.linkedin.com/in/jonisyofian/)
 * Email : jonisyofian14@gmail.com  
 
+You also can look at some dashboard [here](https://public.tableau.com/app/profile/joni.syofian/vizzes)
+
 Thanks!
